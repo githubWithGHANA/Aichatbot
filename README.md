@@ -1,33 +1,7 @@
 # Aichatbot
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Chatbot using Gemini AI - README</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      margin: 40px;
-    }
-    h1, h2 {
-      color: #4a90e2;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    .highlight {
-      background-color: #e6f7ff;
-      padding: 10px;
-      border-left: 4px solid #4a90e2;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>🤖 Chatbot using Gemini AI</h1>
